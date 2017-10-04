@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10865" started-at="2014-08-08T03:48:30Z" finished-at="2014-08-08T03:48:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10865" started-at="2014-08-08T03:48:30Z" finished-at="2014-08-08T03:48:41Z">
+      <class name="com.sand.box.TestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sand.box.TestClass@74169390]" name="setup" is-config="true" duration-ms="14" started-at="2014-08-07T20:48:30Z" finished-at="2014-08-07T20:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sand.box.TestClass@74169390]" name="setUp" is-config="true" duration-ms="2535" started-at="2014-08-07T20:48:30Z" finished-at="2014-08-07T20:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="runThisTest()[pri:0, instance:com.sand.box.TestClass@74169390]" name="runThisTest" duration-ms="8296" started-at="2014-08-07T20:48:33Z" finished-at="2014-08-07T20:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runThisTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sand.box.TestClass@74169390]" name="teardown" is-config="true" duration-ms="1" started-at="2014-08-07T20:48:41Z" finished-at="2014-08-07T20:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sand.box.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
