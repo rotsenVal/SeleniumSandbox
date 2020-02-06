@@ -36,7 +36,7 @@ public class SetUp {
 		try {
 			input = new FileInputStream(
 					(new File(
-							"C:\\workspace\\com-automation-portal\\src\\test\\resources\\test.properties")));
+							//)));
 			try {
 				prop.load(input);
 			} catch (IOException e) {
